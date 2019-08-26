@@ -2,7 +2,7 @@
 
 This is an example project that provides machine learning as a service.
 It includes R code utilizing Plumber, Keras, Tidyr, and Tensorflow.
-This code can be deployed as a web service using Plumber and the `Model Code.R and `functions.R` scripts
+This code can be deployed as a web service using Plumber and the `Model Code.R` and `functions.R` scripts
 This example expects a csv of chief complaint text, a keras `model.h5` file, and `tokenizer` file which need to be loaded into the R working environment, but does  **not** provide these files.
 
 ## Installation

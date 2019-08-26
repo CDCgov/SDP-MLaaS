@@ -35,7 +35,7 @@ r$run(host="0.0.0.0", port = 8080, swagger=TRUE)
 ```
 
 Where the `plumb("predictions_controller.R")` indicates a predictions_controller location.
-An example project is found in the [../cdc-mlaas-r](cdc-mlaas-r) directory.
+An example project is found in the [R](../R) directory.
 
 ## Usage
 
