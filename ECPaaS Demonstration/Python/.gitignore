@@ -1,0 +1,10 @@
+.DS_Store
+
+data/
+# models/
+
+# python
+__pycache__
+
+# R
+.Rhistory

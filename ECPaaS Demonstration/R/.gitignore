@@ -1,0 +1,9 @@
+.DS_Store
+
+data/
+
+# python
+__pycache__
+
+# R
+.Rhistory
