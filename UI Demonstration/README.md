@@ -1,4 +1,4 @@
-`# UI R Example
+# UI R Example
 
 This is an example UI that displays chief complaint classifications as a time series.  
 It includes R code utilizing Keras, Tidyr, Tensorflow, and Shiny. This code can be run with the `server.R` script.  
